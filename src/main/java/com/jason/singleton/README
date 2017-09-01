@@ -1,0 +1,6 @@
+this package contains:
+    abstract class to clarify singleton
+    Double check lock
+    static instance
+
+Link: http://geek.csdn.net/news/detail/186671

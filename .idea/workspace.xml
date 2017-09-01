@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="763746af-1dd9-47f0-9577-69c208b7b5e5" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="763746af-1dd9-47f0-9577-69c208b7b5e5" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,7 +23,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="StaticInstance.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="StaticInstance.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/jason/singleton/StaticInstance.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="475">
@@ -34,6 +32,16 @@
                 <element signature="e#324#325#0" expanded="true" />
                 <element signature="e#371#372#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/jason/singleton/README">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="5" column="27" lean-forward="false" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -87,7 +95,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/jason/reflect/Car.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/jason/reflect/ReflectTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/jason/reflect/PriviteCar.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/jason/reflect/PrivateCar.java" />
@@ -138,6 +145,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/jason/singleton/StaticInstance.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/jason/singleton/StaticFactory.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/jason/singleton/Singleton.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jason/singleton/README" />
       </list>
     </option>
   </component>
@@ -432,12 +440,12 @@
       <workItem from="1504144825000" duration="2271000" />
       <workItem from="1504159791515" duration="6087000" />
       <workItem from="1504165932623" duration="5964000" />
-      <workItem from="1504259310943" duration="3558000" />
+      <workItem from="1504259310943" duration="3734000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19279000" />
+    <option name="totallyTimeSpent" value="19455000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1440" y="-157" width="1920" height="1057" extended-state="0" />
@@ -452,7 +460,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32976446" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980973" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32980973" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27301928" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -487,13 +495,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jason/reflect/PrivateCar.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/jason/classloader/ClassLoaderTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="304">
@@ -658,6 +659,14 @@
             <element signature="e#324#325#0" expanded="true" />
             <element signature="e#371#372#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jason/singleton/README">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="27" lean-forward="false" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
+          <folding />
         </state>
       </provider>
     </entry>
