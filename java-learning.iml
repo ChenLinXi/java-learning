@@ -5,7 +5,7 @@
       <configuration />
     </facet>
   </component>
-  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_6">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
     <output url="file://$MODULE_DIR$/target/classes" />
     <output-test url="file://$MODULE_DIR$/target/test-classes" />
     <content url="file://$MODULE_DIR$">
@@ -20,6 +20,7 @@
     <orderEntry type="library" name="Maven: org.springframework:spring-context:unknown" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-context-support:unknown" level="project" />
     <orderEntry type="library" name="Maven: org.codehaus.groovy:grovvy-all:unknown" level="project" />
+    <orderEntry type="library" name="Maven: com.alibaba:transmittable-thread-local:2.1.1" level="project" />
     <orderEntry type="library" name="Maven: javax.mail:mail:1.4" level="project" />
     <orderEntry type="library" name="Maven: javax.activation:activation:1.1" level="project" />
   </component>

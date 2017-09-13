@@ -40,6 +40,13 @@
             <artifactId>grovvy-all</artifactId>
         </dependency>
 
+        <!-- ThreadLocal依赖 -->
+        <dependency>
+            <groupId>com.alibaba</groupId>
+            <artifactId>transmittable-thread-local</artifactId>
+            <version>2.1.1</version>
+        </dependency>
+
         <!-- JavaMail依赖 -->
         <dependency>
             <groupId>javax.mail</groupId>

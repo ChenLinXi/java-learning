@@ -1,7 +1,5 @@
 package com.jason.list;
 
-import com.sun.corba.se.impl.orbutil.ObjectWriter;
-
 import java.util.*;
 import java.util.function.Consumer;
 import java.util.function.Predicate;
