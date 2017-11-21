@@ -1,5 +1,9 @@
 package com.jason.innerclass;
 
+/**
+ * what's public inner class? it's compiled as Person.Decorator$0 exactly, the compiler can recognize inner class by
+ * local final variable 'final Decorator this$0'.
+ */
 public class Person {
 
     private String name;
