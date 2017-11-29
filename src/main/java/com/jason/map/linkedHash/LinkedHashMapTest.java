@@ -1,4 +1,4 @@
-package com.jason.map.LinkedHashMap;
+package com.jason.map.linkedHash;
 
 import java.util.Iterator;
 import java.util.LinkedHashMap;

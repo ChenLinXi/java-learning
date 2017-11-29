@@ -1,4 +1,4 @@
-package com.jason.map.concurrentMap;
+package com.jason.map.concurrent;
 
 import com.jason.map.Map;
 
