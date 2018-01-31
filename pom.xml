@@ -86,6 +86,13 @@
             <version>3.3</version>
         </dependency>
 
+        <!-- apache工具包 -->
+        <dependency>
+            <groupId>org.apache.commons</groupId>
+            <artifactId>commons-lang3</artifactId>
+            <version>3.4</version>
+        </dependency>
+
         <!-- zookeeper依赖 -->
         <dependency>
             <groupId>org.apache.zookeeper</groupId>
