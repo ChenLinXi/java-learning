@@ -10,7 +10,7 @@ public class ConcreteDecoratorA extends Decorator {
     @Override
     void Operation() {
         super.Operation();
-        addedState = "new State";
+        addedState = "new WorkState";
         System.out.println("具体装饰对象A的操作");
     }
 }
